@@ -5,7 +5,7 @@ Different from other tools, this tool requires two ASTs to compare. So we have t
 Usage:
 
 ```bash
-# Generate ASTs 
+# Generate ASTs
 # Generate Text AST
 solc --ast contract_name.sol >> contract_name.ast
 solc --ast contract_name2.sol >> contract_name2.ast
